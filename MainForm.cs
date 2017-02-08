@@ -81,7 +81,7 @@ namespace Sample
 
             try
             {
-                progressBar.ShowMessage("Processing the image");
+                progressBar.ShowMessage("Processando imagem");
 
                 string exportPath = @"C:\Temp\images\result";
                 if (Directory.Exists(exportPath))

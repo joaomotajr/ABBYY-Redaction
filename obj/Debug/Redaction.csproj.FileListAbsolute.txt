@@ -34,3 +34,12 @@ C:\Dropbox\Projects\FXD\Engine\Redaction\obj\Debug\Sample.MainForm.resources
 C:\Dropbox\Projects\FXD\Engine\Redaction\obj\Debug\Redaction.csproj.GenerateResource.Cache
 C:\Dropbox\Projects\FXD\Engine\Redaction\obj\Debug\Redaction.exe
 C:\Dropbox\Projects\FXD\Engine\Redaction\obj\Debug\Redaction.pdb
+C:\projects\FXD\Engine\ABBYY-Redaction\bin\Debug\Redaction.exe
+C:\projects\FXD\Engine\ABBYY-Redaction\bin\Debug\Redaction.pdb
+C:\projects\FXD\Engine\ABBYY-Redaction\bin\Debug\Interop.FCEngine.dll
+C:\projects\FXD\Engine\ABBYY-Redaction\bin\Debug\Interop.FREngine.dll
+C:\projects\FXD\Engine\ABBYY-Redaction\obj\Debug\Redaction.csprojResolveAssemblyReference.cache
+C:\projects\FXD\Engine\ABBYY-Redaction\obj\Debug\Sample.MainForm.resources
+C:\projects\FXD\Engine\ABBYY-Redaction\obj\Debug\Redaction.csproj.GenerateResource.Cache
+C:\projects\FXD\Engine\ABBYY-Redaction\obj\Debug\Redaction.exe
+C:\projects\FXD\Engine\ABBYY-Redaction\obj\Debug\Redaction.pdb

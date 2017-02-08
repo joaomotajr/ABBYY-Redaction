@@ -1,0 +1,5 @@
+*.cache
+*.exe
+bin/Debug/Redaction.pdb
+*.exe
+obj/Debug/Redaction.csproj.FileListAbsolute.txt
