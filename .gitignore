@@ -3,3 +3,4 @@
 bin/Debug/Redaction.pdb
 *.exe
 obj/Debug/Redaction.csproj.FileListAbsolute.txt
+*.suo
